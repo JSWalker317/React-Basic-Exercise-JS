@@ -4,7 +4,7 @@
 <br>
 
 ### 1.  What is the diffference between the React's `function` components and `class` components ?      
-  | First Header  | Second Header |
+  | Class components  | Functional components |
 | ------------- | ------------- |
 | Extend from React.Component
 Are also known as stateful components
@@ -12,7 +12,8 @@ Can respond to lifecycle events
 Maintain state information
 Support props
 Require a constructor to store state before they can be used to pass props to the parent class
-Require a render function that returns an HTML element  | Don’t extend from React.Component
+Require a render function that returns an HTML element  |
+| Don’t extend from React.Component
 Are known as stateless components
 Don’t respond to lifecycle events
 Don’t maintain state information
