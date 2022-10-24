@@ -11,7 +11,7 @@
 | Can respond to lifecycle events | Don’t respond to lifecycle events |
 | Maintain state information  | Don’t maintain state information  |
 | Support props | Will accept any type of data (props)  |
-| Require a constructor to store state before they can be used to pass props to the parent class  | Don’t support a constructor |
+| Require a constructor to store state before <br> they can be used to pass props to the parent class  | Don’t support a constructor |
 | Require a render function that returns an HTML element  | Return HTML elements or nothing |
 |           |     Support React 16.8 hooks  |
 
