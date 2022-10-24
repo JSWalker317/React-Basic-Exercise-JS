@@ -8,17 +8,13 @@
 | ------------- | ------------- |
 | Extend from React.Component | Don’t extend from React.Component
 Are also known as stateful components | Are known as stateless components |
-Can respond to lifecycle events
-Maintain state information
-Support props
-Require a constructor to store state before they can be used to pass props to the parent class
+Can respond to lifecycle events | Don’t respond to lifecycle events |
+Maintain state information  | Don’t maintain state information  |
+Support props | Will accept any type of data (props)  |
+Require a constructor to store state before they can be used to pass props to the parent class  | Don’t support a constructor |
 Require a render function that returns an HTML element  
 
 
-Don’t respond to lifecycle events
-Don’t maintain state information
-Will accept any type of data (props)
-Don’t support a constructor
 Return HTML elements or nothing
 Support React 16.8 hooks  |
 
