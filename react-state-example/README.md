@@ -4,7 +4,7 @@
 <br>
 
 ### 1.  What is the diffference between the React's `function` components and `class` components ?
-First Header  | Second Header
+                         Functional Components                  	  |                    Class Components                
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
