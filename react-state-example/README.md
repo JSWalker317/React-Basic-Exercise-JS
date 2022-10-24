@@ -6,8 +6,8 @@
 ### 1.  What is the diffference between the React's `function` components and `class` components ?      
   | Class components  | Functional components |
 | ------------- | ------------- |
-| Extend from React.Component | Don’t extend from React.Component
-Are also known as stateful components | Are known as stateless components |
+| Extend from React.Component | Don’t extend from React.Component |
+| Are also known as stateful components | Are known as stateless components |
 Can respond to lifecycle events | Don’t respond to lifecycle events |
 Maintain state information  | Don’t maintain state information  |
 Support props | Will accept any type of data (props)  |
