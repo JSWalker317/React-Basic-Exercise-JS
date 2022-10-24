@@ -12,7 +12,7 @@ Can respond to lifecycle events
 Maintain state information
 Support props
 Require a constructor to store state before they can be used to pass props to the parent class
-Require a render function that returns an HTML element  |
+Require a render function that returns an HTML element  
 | Don’t extend from React.Component
 Are known as stateless components
 Don’t respond to lifecycle events
